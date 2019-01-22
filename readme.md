@@ -50,6 +50,16 @@ Returns:
 -   package-dependency 2
 -   package-dependency 3
 
+## Package roadmap
+
+-   [x] Feature 1.
+-   [ ] Feature 2.
+-   [ ] Feature 3.
+-   [ ] Feature 4.
+-   [ ] Feature 5.
+-   [ ] Feature 6.
+
+
 ## License
 
 MIT
