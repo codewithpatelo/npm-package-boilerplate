@@ -11,7 +11,7 @@ const yourPackageName = require('yourPackageName');
 [![dependencies Status](https://david-dm.org/user/project/status.svg)](https://david-dm.org/user/project)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/user/project/master/LICENSE) 
 
-This library help **//developers** to **//value proposition** by **//features**. The package is the **//unique selling point** (first, best, optimal in **//area that stand out**). It can be applied in areas such as **//implementation areas** , for **//use cases**.
+This library helps **//developers** to **//value proposition** by **//features**. The package is the **//unique selling point** (first, best, optimal in **//area that stand out**). It can be applied in areas such as **//implementation areas** , for **//use cases**.
 
 ## Installation
 
