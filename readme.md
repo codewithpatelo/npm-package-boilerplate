@@ -79,8 +79,8 @@ MIT
 
 ### Linting scripts
 
--   Error check: `npm run check`
--   Error fix:  `npm run lint` or `npm run lint -- --fix`
+-   Error lint: `npm run lint`
+-   Error lint-fix:  `npm run lint-fix` or `npm run lint -- --fix`
 
 ## Bibliography
 
