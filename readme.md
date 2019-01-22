@@ -4,14 +4,12 @@ const yourPackageName = require('yourPackageName');
 
 ```
 
-# project
-[![Codacy Badge](https://api.codacy.com/)](https://app.codacy.com/)
+# Project Name
 [![npm version](https://badge.fury.io/js/recht.svg)](https://badge.fury.io/js/recht)
 [![build](https://travis-ci.org/user/project.svg?branch=master)](https://travis-ci.org/user/project)
 [![Coverage Status](https://coveralls.io/repos/github/user/project/badge.svg?branch=master)](https://coveralls.io/github/user/project?branch=master)
-[![Known Vulnerabilities](https://snyk.io/test/github/user/project/badge.svg?targetFile=package.json)](https://snyk.io/test/github/user/project?targetFile=package.json)
 [![dependencies Status](https://david-dm.org/user/project/status.svg)](https://david-dm.org/user/project)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/user/project/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/user/project.svg)](https://greenkeeper.io/)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/user/project/master/LICENSE) 
 
 This library help <developers> to <value proposition> by <features>. The package is the <unique selling point> (first, best, optimal in <area that stand out>). It can be applied in areas such as <implementation areas> , for <use cases>.
 
